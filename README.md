@@ -1,6 +1,8 @@
 # mr3000
 Raspberry Pi 4 Cyberdeck design based on this: https://parallax_punch.artstation.com/projects/XL6eL
 
+![](https://preview.redd.it/77tc3gd3zf371.jpg?width=640&crop=smart&auto=webp&s=97f0970679b94686fb41c57c51fdffdeaccdd7f8)
+
 ## Feel free to edit and PLEASE do some pull requests!
 
 ## Python files
